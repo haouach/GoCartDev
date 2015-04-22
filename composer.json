@@ -1,7 +1,7 @@
 {
     "description" : "GoCart",
     "name" : "gocart/GoCart",
-    "minimum-stability": "dev",
+    "stability": "dev",
     "require": {
         "php": ">=5.4",
         "altorouter/altorouter": "1.1.0",
