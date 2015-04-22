@@ -1,6 +1,6 @@
 {
     "description" : "GoCart",
-    "name" : "gocart/GoCart",
+    "name" : "gocart/GoCartDev",
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.4",

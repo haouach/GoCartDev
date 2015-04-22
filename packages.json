@@ -1,0 +1,7 @@
+{
+    "packages": {
+        "gocart/goCartDev": {
+            "dev-master": { @composer.json }
+        }
+    }
+}
