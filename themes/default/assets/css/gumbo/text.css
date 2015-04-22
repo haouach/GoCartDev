@@ -1,0 +1,77 @@
+.page-header {
+    border-bottom:3px solid rgba(0,0,0,.35);
+    font-weight:300;
+    font-size:1.3em;
+    padding:0px;
+    margin:15px 0px 1em 0px;
+}
+
+.page-header h1, .page-header h2, .page-header h3, .page-header h4 {
+    font-weight:300;
+    padding:.2em;
+    padding-bottom:.5em;
+} 
+
+.page-header small {
+    color:#999;
+    font-size:.6em;
+}
+
+.section-header {
+    background-color: #ddd;
+    font-weight:400;
+    font-size:1em;
+    padding:0px;
+    margin:15px 0px 1em 0px;
+}
+
+.section-header h1, .section-header h2, .section-header h3, .section-header h4 {
+    font-weight:400;
+    padding:.2em;
+    border-bottom:0px;
+} 
+
+.section-header small {
+    color:#999;
+    font-size:.6em;
+}
+
+a {
+    color: rgb(0,90,183);
+}
+
+p {
+    margin:.2em 0px .9em;
+    padding:0px;
+    line-height:1.7em;
+}
+
+.text-left {
+    text-align:left !important;
+}
+
+.text-right {
+    text-align:right !important;
+}
+
+.text-center {
+    text-align:center !important;
+}
+
+h1, h2, h3, h4, h5 {
+    line-height:1em; /* Important for wrapped headers */
+}
+h1 { font-size:2.0em; margin:0px; padding:.5em 0;}
+h2 { font-size:1.6em; margin:0px; padding:.5em 0;}
+h3 { font-size:1.3em; margin:0px; padding:.5em 0;}
+h4 { font-size:1.0em; margin:0px; padding:.5em 0;}
+h5 { font-size:1.0em; margin:0px; padding:.5em 0; color:#999;}
+hr {
+    height: 1px;
+    color: #ddd;
+    background: #ccc;
+    font-size: 0;
+    border: 0;
+    border-bottom:1px solid #fff;
+    margin:15px 0;
+}
